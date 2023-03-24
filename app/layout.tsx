@@ -21,15 +21,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Bhargav Annem',
     description: 'Developer, writer, and creator.',
-    url: 'https://leerob.io',
     siteName: 'Bhargav Annem',
-    images: [
-      {
-        url: 'https://leerob.io/og.jpg',
-        width: 1920,
-        height: 1080,
-      },
-    ],
     locale: 'en-US',
     type: 'website',
   },
